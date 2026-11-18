@@ -1,5 +1,4 @@
-# My First Learning Log
-
+## My First Learning Log
 ## How My Setup Went
 Today, I started setting up my laptop for my learning journey. I created my GitHub repository and installed Git for windows, VS Code, JDK and Claude Code. There were a few small issues during setup, but I managed to get everything working.
 
